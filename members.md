@@ -2,6 +2,7 @@
 
 - [제제](https://github.com/JINU-CHANG/git-practice/blob/feat/zeze-page/members/zeze.md)
 - 시소
+- [제이드](members/jade.md)
 - [카피](https://github.com/JINU-CHANG/git-practice/blob/feat/capy-page/members/capy.md)
 - [우주](https://github.com/JINU-CHANG/git-practice/blob/feat/uzu-page/members/uzu.md)
 - [헤일리](https://github.com/JINU-CHANG/git-practice/blob/feat/hailey-page/members/hailey.md)
