@@ -2,7 +2,7 @@
 
 - 제제
 - 시소
-- 카피
+- [카피](https://github.com/JINU-CHANG/git-practice/blob/feat/capy-page/members/capy.md)
 - 우주
 - 헤일리
 - 리안
