@@ -3,7 +3,7 @@
 - 제제
 - 시소
 - 카피
-- 우주
+- [우주](https://github.com/JINU-CHANG/git-practice/blob/feat/uzu-page/members/uzu.md)
 - 헤일리
 - 리안
 - 제이드
